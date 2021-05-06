@@ -32,7 +32,7 @@ export default function Header(): JSX.Element {
       </Link>
       <nav>
         <ul className="flex flex-row font-medium text-gray-400">
-          <li className="mr-6"><HLink href="/"><a>Index</a></HLink></li>
+          <li className="mr-6"><HLink href="/"><a>Home</a></HLink></li>
           <li className="mr-6"><HLink href="/about"><a>About</a></HLink></li>
           <li><HLink href="/contact"><a>Contact</a></HLink></li>
         </ul>
